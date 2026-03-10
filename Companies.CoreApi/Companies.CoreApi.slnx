@@ -1,0 +1,11 @@
+<Solution>
+  <Folder Name="/1. Data Access/">
+    <Project Path="Companies.Core.DataAccess/Companies.Core.DataAccess.csproj" />
+  </Folder>
+  <Folder Name="/2. Business/">
+    <Project Path="Companies.Core.Business/Companies.Core.Business.csproj" />
+  </Folder>
+  <Folder Name="/3.Api/">
+    <Project Path="Companies.CoreApi/Companies.CoreApi.csproj" />
+  </Folder>
+</Solution>

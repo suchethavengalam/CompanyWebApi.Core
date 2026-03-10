@@ -1,0 +1,234 @@
+C:\Users\suche\Desktop\Web API AND DAPPER\project\Companies.CoreApi\Companies.CoreApi\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\suche\Desktop\Web API AND DAPPER\project\Companies.CoreApi\Companies.CoreApi\bin\Debug\net10.0\appsettings.json
+C:\Users\suche\Desktop\Web API AND DAPPER\project\Companies.CoreApi\Companies.CoreApi\bin\Debug\net10.0\Companies.CoreApi.staticwebassets.endpoints.json
+C:\Users\suche\Desktop\Web API AND DAPPER\project\Companies.CoreApi\Companies.CoreApi\bin\Debug\net10.0\Companies.CoreApi.exe
+C:\Users\suche\Desktop\Web API AND DAPPER\project\Companies.CoreApi\Companies.CoreApi\bin\Debug\net10.0\Companies.CoreApi.deps.json
+C:\Users\suche\Desktop\Web API AND DAPPER\project\Companies.CoreApi\Companies.CoreApi\bin\Debug\net10.0\Companies.CoreApi.runtimeconfig.json
+C:\Users\suche\Desktop\Web API AND DAPPER\project\Companies.CoreApi\Companies.CoreApi\bin\Debug\net10.0\Companies.CoreApi.dll
+C:\Users\suche\Desktop\Web API AND DAPPER\project\Companies.CoreApi\Companies.CoreApi\bin\Debug\net10.0\Companies.CoreApi.pdb
+C:\Users\suche\Desktop\Web API AND DAPPER\project\Companies.CoreApi\Companies.CoreApi\bin\Debug\net10.0\Azure.Core.dll
+C:\Users\suche\Desktop\Web API AND DAPPER\project\Companies.CoreApi\Companies.CoreApi\bin\Debug\net10.0\Azure.Identity.dll
+C:\Users\suche\Desktop\Web API AND DAPPER\project\Companies.CoreApi\Companies.CoreApi\bin\Debug\net10.0\Dapper.dll
+C:\Users\suche\Desktop\Web API AND DAPPER\project\Companies.CoreApi\Companies.CoreApi\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\suche\Desktop\Web API AND DAPPER\project\Companies.CoreApi\Companies.CoreApi\bin\Debug\net10.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\suche\Desktop\Web API AND DAPPER\project\Companies.CoreApi\Companies.CoreApi\bin\Debug\net10.0\Microsoft.Data.SqlClient.dll
+C:\Users\suche\Desktop\Web API AND DAPPER\project\Companies.CoreApi\Companies.CoreApi\bin\Debug\net10.0\Microsoft.Identity.Client.dll
+C:\Users\suche\Desktop\Web API AND DAPPER\project\Companies.CoreApi\Companies.CoreApi\bin\Debug\net10.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\suche\Desktop\Web API AND DAPPER\project\Companies.CoreApi\Companies.CoreApi\bin\Debug\net10.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\suche\Desktop\Web API AND DAPPER\project\Companies.CoreApi\Companies.CoreApi\bin\Debug\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\suche\Desktop\Web API AND DAPPER\project\Companies.CoreApi\Companies.CoreApi\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\suche\Desktop\Web API AND DAPPER\project\Companies.CoreApi\Companies.CoreApi\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\suche\Desktop\Web API AND DAPPER\project\Companies.CoreApi\Companies.CoreApi\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\suche\Desktop\Web API AND DAPPER\project\Companies.CoreApi\Companies.CoreApi\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\suche\Desktop\Web API AND DAPPER\project\Companies.CoreApi\Companies.CoreApi\bin\Debug\net10.0\Microsoft.OpenApi.dll
+C:\Users\suche\Desktop\Web API AND DAPPER\project\Companies.CoreApi\Companies.CoreApi\bin\Debug\net10.0\Microsoft.SqlServer.Server.dll
+C:\Users\suche\Desktop\Web API AND DAPPER\project\Companies.CoreApi\Companies.CoreApi\bin\Debug\net10.0\System.ClientModel.dll
+C:\Users\suche\Desktop\Web API AND DAPPER\project\Companies.CoreApi\Companies.CoreApi\bin\Debug\net10.0\System.Configuration.ConfigurationManager.dll
+C:\Users\suche\Desktop\Web API AND DAPPER\project\Companies.CoreApi\Companies.CoreApi\bin\Debug\net10.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\suche\Desktop\Web API AND DAPPER\project\Companies.CoreApi\Companies.CoreApi\bin\Debug\net10.0\System.Memory.Data.dll
+C:\Users\suche\Desktop\Web API AND DAPPER\project\Companies.CoreApi\Companies.CoreApi\bin\Debug\net10.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\suche\Desktop\Web API AND DAPPER\project\Companies.CoreApi\Companies.CoreApi\bin\Debug\net10.0\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\suche\Desktop\Web API AND DAPPER\project\Companies.CoreApi\Companies.CoreApi\bin\Debug\net10.0\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\suche\Desktop\Web API AND DAPPER\project\Companies.CoreApi\Companies.CoreApi\bin\Debug\net10.0\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\suche\Desktop\Web API AND DAPPER\project\Companies.CoreApi\Companies.CoreApi\bin\Debug\net10.0\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\suche\Desktop\Web API AND DAPPER\project\Companies.CoreApi\Companies.CoreApi\bin\Debug\net10.0\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\suche\Desktop\Web API AND DAPPER\project\Companies.CoreApi\Companies.CoreApi\bin\Debug\net10.0\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\suche\Desktop\Web API AND DAPPER\project\Companies.CoreApi\Companies.CoreApi\bin\Debug\net10.0\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\suche\Desktop\Web API AND DAPPER\project\Companies.CoreApi\Companies.CoreApi\bin\Debug\net10.0\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\suche\Desktop\Web API AND DAPPER\project\Companies.CoreApi\Companies.CoreApi\bin\Debug\net10.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\suche\Desktop\Web API AND DAPPER\project\Companies.CoreApi\Companies.CoreApi\bin\Debug\net10.0\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\suche\Desktop\Web API AND DAPPER\project\Companies.CoreApi\Companies.CoreApi\bin\Debug\net10.0\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\suche\Desktop\Web API AND DAPPER\project\Companies.CoreApi\Companies.CoreApi\bin\Debug\net10.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\suche\Desktop\Web API AND DAPPER\project\Companies.CoreApi\Companies.CoreApi\bin\Debug\net10.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\suche\Desktop\Web API AND DAPPER\project\Companies.CoreApi\Companies.CoreApi\bin\Debug\net10.0\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\suche\Desktop\Web API AND DAPPER\project\Companies.CoreApi\Companies.CoreApi\bin\Debug\net10.0\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\suche\Desktop\Web API AND DAPPER\project\Companies.CoreApi\Companies.CoreApi\bin\Debug\net10.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\suche\Desktop\Web API AND DAPPER\project\Companies.CoreApi\Companies.CoreApi\bin\Debug\net10.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\suche\Desktop\Web API AND DAPPER\project\Companies.CoreApi\Companies.CoreApi\bin\Debug\net10.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\suche\Desktop\Web API AND DAPPER\project\Companies.CoreApi\Companies.CoreApi\bin\Debug\net10.0\Companies.Core.Business.dll
+C:\Users\suche\Desktop\Web API AND DAPPER\project\Companies.CoreApi\Companies.CoreApi\bin\Debug\net10.0\Companies.Core.DataAccess.dll
+C:\Users\suche\Desktop\Web API AND DAPPER\project\Companies.CoreApi\Companies.CoreApi\bin\Debug\net10.0\Companies.Core.Business.pdb
+C:\Users\suche\Desktop\Web API AND DAPPER\project\Companies.CoreApi\Companies.CoreApi\bin\Debug\net10.0\Companies.Core.DataAccess.pdb
+C:\Users\suche\Desktop\Web API AND DAPPER\project\Companies.CoreApi\Companies.CoreApi\obj\Debug\net10.0\Companies.CoreApi.csproj.AssemblyReference.cache
+C:\Users\suche\Desktop\Web API AND DAPPER\project\Companies.CoreApi\Companies.CoreApi\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\suche\Desktop\Web API AND DAPPER\project\Companies.CoreApi\Companies.CoreApi\obj\Debug\net10.0\Companies.CoreApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suche\Desktop\Web API AND DAPPER\project\Companies.CoreApi\Companies.CoreApi\obj\Debug\net10.0\Companies.CoreApi.AssemblyInfoInputs.cache
+C:\Users\suche\Desktop\Web API AND DAPPER\project\Companies.CoreApi\Companies.CoreApi\obj\Debug\net10.0\Companies.CoreApi.AssemblyInfo.cs
+C:\Users\suche\Desktop\Web API AND DAPPER\project\Companies.CoreApi\Companies.CoreApi\obj\Debug\net10.0\Companies.CoreApi.csproj.CoreCompileInputs.cache
+C:\Users\suche\Desktop\Web API AND DAPPER\project\Companies.CoreApi\Companies.CoreApi\obj\Debug\net10.0\Companies.CoreApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\suche\Desktop\Web API AND DAPPER\project\Companies.CoreApi\Companies.CoreApi\obj\Debug\net10.0\Companies.CoreApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\suche\Desktop\Web API AND DAPPER\project\Companies.CoreApi\Companies.CoreApi\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\suche\Desktop\Web API AND DAPPER\project\Companies.CoreApi\Companies.CoreApi\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\suche\Desktop\Web API AND DAPPER\project\Companies.CoreApi\Companies.CoreApi\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\suche\Desktop\Web API AND DAPPER\project\Companies.CoreApi\Companies.CoreApi\obj\Debug\net10.0\scopedcss\bundle\Companies.CoreApi.styles.css
+C:\Users\suche\Desktop\Web API AND DAPPER\project\Companies.CoreApi\Companies.CoreApi\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\suche\Desktop\Web API AND DAPPER\project\Companies.CoreApi\Companies.CoreApi\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\suche\Desktop\Web API AND DAPPER\project\Companies.CoreApi\Companies.CoreApi\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\suche\Desktop\Web API AND DAPPER\project\Companies.CoreApi\Companies.CoreApi\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\suche\Desktop\Web API AND DAPPER\project\Companies.CoreApi\Companies.CoreApi\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\suche\Desktop\Web API AND DAPPER\project\Companies.CoreApi\Companies.CoreApi\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+C:\Users\suche\Desktop\Web API AND DAPPER\project\Companies.CoreApi\Companies.CoreApi\obj\Debug\net10.0\Companie.262D0F11.Up2Date
+C:\Users\suche\Desktop\Web API AND DAPPER\project\Companies.CoreApi\Companies.CoreApi\obj\Debug\net10.0\Companies.CoreApi.dll
+C:\Users\suche\Desktop\Web API AND DAPPER\project\Companies.CoreApi\Companies.CoreApi\obj\Debug\net10.0\refint\Companies.CoreApi.dll
+C:\Users\suche\Desktop\Web API AND DAPPER\project\Companies.CoreApi\Companies.CoreApi\obj\Debug\net10.0\Companies.CoreApi.pdb
+C:\Users\suche\Desktop\Web API AND DAPPER\project\Companies.CoreApi\Companies.CoreApi\obj\Debug\net10.0\Companies.CoreApi.genruntimeconfig.cache
+C:\Users\suche\Desktop\Web API AND DAPPER\project\Companies.CoreApi\Companies.CoreApi\obj\Debug\net10.0\ref\Companies.CoreApi.dll
+C:\Users\suche\Desktop\Web API AND DAPPER\project\Companies.CoreApi\Companies.CoreApi\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\suche\Desktop\Web API AND DAPPER\project\Companies.CoreApi\Companies.CoreApi\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\suche\Desktop\Web API AND DAPPER\project\Companies.CoreApi\Companies.CoreApi\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\suche\Desktop\Web API AND DAPPER\project\3 tier with env var\Companies.CoreApi\Companies.CoreApi\bin\Debug\net10.0\Companies.CoreApi.staticwebassets.endpoints.json
+C:\Users\suche\Desktop\Web API AND DAPPER\project\3 tier with env var\Companies.CoreApi\Companies.CoreApi\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\suche\Desktop\Web API AND DAPPER\project\3 tier with env var\Companies.CoreApi\Companies.CoreApi\bin\Debug\net10.0\appsettings.json
+C:\Users\suche\Desktop\Web API AND DAPPER\project\3 tier with env var\Companies.CoreApi\Companies.CoreApi\bin\Debug\net10.0\Companies.CoreApi.exe
+C:\Users\suche\Desktop\Web API AND DAPPER\project\3 tier with env var\Companies.CoreApi\Companies.CoreApi\bin\Debug\net10.0\Companies.CoreApi.deps.json
+C:\Users\suche\Desktop\Web API AND DAPPER\project\3 tier with env var\Companies.CoreApi\Companies.CoreApi\bin\Debug\net10.0\Companies.CoreApi.runtimeconfig.json
+C:\Users\suche\Desktop\Web API AND DAPPER\project\3 tier with env var\Companies.CoreApi\Companies.CoreApi\bin\Debug\net10.0\Companies.CoreApi.dll
+C:\Users\suche\Desktop\Web API AND DAPPER\project\3 tier with env var\Companies.CoreApi\Companies.CoreApi\bin\Debug\net10.0\Companies.CoreApi.pdb
+C:\Users\suche\Desktop\Web API AND DAPPER\project\3 tier with env var\Companies.CoreApi\Companies.CoreApi\bin\Debug\net10.0\Azure.Core.dll
+C:\Users\suche\Desktop\Web API AND DAPPER\project\3 tier with env var\Companies.CoreApi\Companies.CoreApi\bin\Debug\net10.0\Azure.Identity.dll
+C:\Users\suche\Desktop\Web API AND DAPPER\project\3 tier with env var\Companies.CoreApi\Companies.CoreApi\bin\Debug\net10.0\Dapper.dll
+C:\Users\suche\Desktop\Web API AND DAPPER\project\3 tier with env var\Companies.CoreApi\Companies.CoreApi\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\suche\Desktop\Web API AND DAPPER\project\3 tier with env var\Companies.CoreApi\Companies.CoreApi\bin\Debug\net10.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\suche\Desktop\Web API AND DAPPER\project\3 tier with env var\Companies.CoreApi\Companies.CoreApi\bin\Debug\net10.0\Microsoft.Data.SqlClient.dll
+C:\Users\suche\Desktop\Web API AND DAPPER\project\3 tier with env var\Companies.CoreApi\Companies.CoreApi\bin\Debug\net10.0\Microsoft.Identity.Client.dll
+C:\Users\suche\Desktop\Web API AND DAPPER\project\3 tier with env var\Companies.CoreApi\Companies.CoreApi\bin\Debug\net10.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\suche\Desktop\Web API AND DAPPER\project\3 tier with env var\Companies.CoreApi\Companies.CoreApi\bin\Debug\net10.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\suche\Desktop\Web API AND DAPPER\project\3 tier with env var\Companies.CoreApi\Companies.CoreApi\bin\Debug\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\suche\Desktop\Web API AND DAPPER\project\3 tier with env var\Companies.CoreApi\Companies.CoreApi\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\suche\Desktop\Web API AND DAPPER\project\3 tier with env var\Companies.CoreApi\Companies.CoreApi\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\suche\Desktop\Web API AND DAPPER\project\3 tier with env var\Companies.CoreApi\Companies.CoreApi\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\suche\Desktop\Web API AND DAPPER\project\3 tier with env var\Companies.CoreApi\Companies.CoreApi\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\suche\Desktop\Web API AND DAPPER\project\3 tier with env var\Companies.CoreApi\Companies.CoreApi\bin\Debug\net10.0\Microsoft.OpenApi.dll
+C:\Users\suche\Desktop\Web API AND DAPPER\project\3 tier with env var\Companies.CoreApi\Companies.CoreApi\bin\Debug\net10.0\Microsoft.SqlServer.Server.dll
+C:\Users\suche\Desktop\Web API AND DAPPER\project\3 tier with env var\Companies.CoreApi\Companies.CoreApi\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\suche\Desktop\Web API AND DAPPER\project\3 tier with env var\Companies.CoreApi\Companies.CoreApi\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\suche\Desktop\Web API AND DAPPER\project\3 tier with env var\Companies.CoreApi\Companies.CoreApi\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\suche\Desktop\Web API AND DAPPER\project\3 tier with env var\Companies.CoreApi\Companies.CoreApi\bin\Debug\net10.0\System.ClientModel.dll
+C:\Users\suche\Desktop\Web API AND DAPPER\project\3 tier with env var\Companies.CoreApi\Companies.CoreApi\bin\Debug\net10.0\System.Configuration.ConfigurationManager.dll
+C:\Users\suche\Desktop\Web API AND DAPPER\project\3 tier with env var\Companies.CoreApi\Companies.CoreApi\bin\Debug\net10.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\suche\Desktop\Web API AND DAPPER\project\3 tier with env var\Companies.CoreApi\Companies.CoreApi\bin\Debug\net10.0\System.Memory.Data.dll
+C:\Users\suche\Desktop\Web API AND DAPPER\project\3 tier with env var\Companies.CoreApi\Companies.CoreApi\bin\Debug\net10.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\suche\Desktop\Web API AND DAPPER\project\3 tier with env var\Companies.CoreApi\Companies.CoreApi\bin\Debug\net10.0\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\suche\Desktop\Web API AND DAPPER\project\3 tier with env var\Companies.CoreApi\Companies.CoreApi\bin\Debug\net10.0\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\suche\Desktop\Web API AND DAPPER\project\3 tier with env var\Companies.CoreApi\Companies.CoreApi\bin\Debug\net10.0\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\suche\Desktop\Web API AND DAPPER\project\3 tier with env var\Companies.CoreApi\Companies.CoreApi\bin\Debug\net10.0\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\suche\Desktop\Web API AND DAPPER\project\3 tier with env var\Companies.CoreApi\Companies.CoreApi\bin\Debug\net10.0\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\suche\Desktop\Web API AND DAPPER\project\3 tier with env var\Companies.CoreApi\Companies.CoreApi\bin\Debug\net10.0\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\suche\Desktop\Web API AND DAPPER\project\3 tier with env var\Companies.CoreApi\Companies.CoreApi\bin\Debug\net10.0\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\suche\Desktop\Web API AND DAPPER\project\3 tier with env var\Companies.CoreApi\Companies.CoreApi\bin\Debug\net10.0\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\suche\Desktop\Web API AND DAPPER\project\3 tier with env var\Companies.CoreApi\Companies.CoreApi\bin\Debug\net10.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\suche\Desktop\Web API AND DAPPER\project\3 tier with env var\Companies.CoreApi\Companies.CoreApi\bin\Debug\net10.0\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\suche\Desktop\Web API AND DAPPER\project\3 tier with env var\Companies.CoreApi\Companies.CoreApi\bin\Debug\net10.0\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\suche\Desktop\Web API AND DAPPER\project\3 tier with env var\Companies.CoreApi\Companies.CoreApi\bin\Debug\net10.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\suche\Desktop\Web API AND DAPPER\project\3 tier with env var\Companies.CoreApi\Companies.CoreApi\bin\Debug\net10.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\suche\Desktop\Web API AND DAPPER\project\3 tier with env var\Companies.CoreApi\Companies.CoreApi\bin\Debug\net10.0\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\suche\Desktop\Web API AND DAPPER\project\3 tier with env var\Companies.CoreApi\Companies.CoreApi\bin\Debug\net10.0\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\suche\Desktop\Web API AND DAPPER\project\3 tier with env var\Companies.CoreApi\Companies.CoreApi\bin\Debug\net10.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\suche\Desktop\Web API AND DAPPER\project\3 tier with env var\Companies.CoreApi\Companies.CoreApi\bin\Debug\net10.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\suche\Desktop\Web API AND DAPPER\project\3 tier with env var\Companies.CoreApi\Companies.CoreApi\bin\Debug\net10.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\suche\Desktop\Web API AND DAPPER\project\3 tier with env var\Companies.CoreApi\Companies.CoreApi\bin\Debug\net10.0\Companies.Core.Business.dll
+C:\Users\suche\Desktop\Web API AND DAPPER\project\3 tier with env var\Companies.CoreApi\Companies.CoreApi\bin\Debug\net10.0\Companies.Core.DataAccess.dll
+C:\Users\suche\Desktop\Web API AND DAPPER\project\3 tier with env var\Companies.CoreApi\Companies.CoreApi\bin\Debug\net10.0\Companies.Core.Business.pdb
+C:\Users\suche\Desktop\Web API AND DAPPER\project\3 tier with env var\Companies.CoreApi\Companies.CoreApi\bin\Debug\net10.0\Companies.Core.DataAccess.pdb
+C:\Users\suche\Desktop\Web API AND DAPPER\project\3 tier with env var\Companies.CoreApi\Companies.CoreApi\obj\Debug\net10.0\Companies.CoreApi.csproj.AssemblyReference.cache
+C:\Users\suche\Desktop\Web API AND DAPPER\project\3 tier with env var\Companies.CoreApi\Companies.CoreApi\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\suche\Desktop\Web API AND DAPPER\project\3 tier with env var\Companies.CoreApi\Companies.CoreApi\obj\Debug\net10.0\Companies.CoreApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suche\Desktop\Web API AND DAPPER\project\3 tier with env var\Companies.CoreApi\Companies.CoreApi\obj\Debug\net10.0\Companies.CoreApi.AssemblyInfoInputs.cache
+C:\Users\suche\Desktop\Web API AND DAPPER\project\3 tier with env var\Companies.CoreApi\Companies.CoreApi\obj\Debug\net10.0\Companies.CoreApi.AssemblyInfo.cs
+C:\Users\suche\Desktop\Web API AND DAPPER\project\3 tier with env var\Companies.CoreApi\Companies.CoreApi\obj\Debug\net10.0\Companies.CoreApi.csproj.CoreCompileInputs.cache
+C:\Users\suche\Desktop\Web API AND DAPPER\project\3 tier with env var\Companies.CoreApi\Companies.CoreApi\obj\Debug\net10.0\Companies.CoreApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\suche\Desktop\Web API AND DAPPER\project\3 tier with env var\Companies.CoreApi\Companies.CoreApi\obj\Debug\net10.0\Companies.CoreApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\suche\Desktop\Web API AND DAPPER\project\3 tier with env var\Companies.CoreApi\Companies.CoreApi\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\suche\Desktop\Web API AND DAPPER\project\3 tier with env var\Companies.CoreApi\Companies.CoreApi\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\suche\Desktop\Web API AND DAPPER\project\3 tier with env var\Companies.CoreApi\Companies.CoreApi\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\suche\Desktop\Web API AND DAPPER\project\3 tier with env var\Companies.CoreApi\Companies.CoreApi\obj\Debug\net10.0\scopedcss\bundle\Companies.CoreApi.styles.css
+C:\Users\suche\Desktop\Web API AND DAPPER\project\3 tier with env var\Companies.CoreApi\Companies.CoreApi\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\suche\Desktop\Web API AND DAPPER\project\3 tier with env var\Companies.CoreApi\Companies.CoreApi\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\suche\Desktop\Web API AND DAPPER\project\3 tier with env var\Companies.CoreApi\Companies.CoreApi\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\suche\Desktop\Web API AND DAPPER\project\3 tier with env var\Companies.CoreApi\Companies.CoreApi\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\suche\Desktop\Web API AND DAPPER\project\3 tier with env var\Companies.CoreApi\Companies.CoreApi\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\suche\Desktop\Web API AND DAPPER\project\3 tier with env var\Companies.CoreApi\Companies.CoreApi\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+C:\Users\suche\Desktop\Web API AND DAPPER\project\3 tier with env var\Companies.CoreApi\Companies.CoreApi\obj\Debug\net10.0\Companie.262D0F11.Up2Date
+C:\Users\suche\Desktop\Web API AND DAPPER\project\3 tier with env var\Companies.CoreApi\Companies.CoreApi\obj\Debug\net10.0\Companies.CoreApi.dll
+C:\Users\suche\Desktop\Web API AND DAPPER\project\3 tier with env var\Companies.CoreApi\Companies.CoreApi\obj\Debug\net10.0\refint\Companies.CoreApi.dll
+C:\Users\suche\Desktop\Web API AND DAPPER\project\3 tier with env var\Companies.CoreApi\Companies.CoreApi\obj\Debug\net10.0\Companies.CoreApi.pdb
+C:\Users\suche\Desktop\Web API AND DAPPER\project\3 tier with env var\Companies.CoreApi\Companies.CoreApi\obj\Debug\net10.0\Companies.CoreApi.genruntimeconfig.cache
+C:\Users\suche\Desktop\Web API AND DAPPER\project\3 tier with env var\Companies.CoreApi\Companies.CoreApi\obj\Debug\net10.0\ref\Companies.CoreApi.dll
+C:\Users\suche\Desktop\Web API AND DAPPER\project\CompanyApi With Email\Companies.CoreApi\Companies.CoreApi\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\suche\Desktop\Web API AND DAPPER\project\CompanyApi With Email\Companies.CoreApi\Companies.CoreApi\bin\Debug\net10.0\appsettings.json
+C:\Users\suche\Desktop\Web API AND DAPPER\project\CompanyApi With Email\Companies.CoreApi\Companies.CoreApi\bin\Debug\net10.0\Companies.CoreApi.staticwebassets.endpoints.json
+C:\Users\suche\Desktop\Web API AND DAPPER\project\CompanyApi With Email\Companies.CoreApi\Companies.CoreApi\bin\Debug\net10.0\Companies.CoreApi.exe
+C:\Users\suche\Desktop\Web API AND DAPPER\project\CompanyApi With Email\Companies.CoreApi\Companies.CoreApi\bin\Debug\net10.0\Companies.CoreApi.deps.json
+C:\Users\suche\Desktop\Web API AND DAPPER\project\CompanyApi With Email\Companies.CoreApi\Companies.CoreApi\bin\Debug\net10.0\Companies.CoreApi.runtimeconfig.json
+C:\Users\suche\Desktop\Web API AND DAPPER\project\CompanyApi With Email\Companies.CoreApi\Companies.CoreApi\bin\Debug\net10.0\Companies.CoreApi.dll
+C:\Users\suche\Desktop\Web API AND DAPPER\project\CompanyApi With Email\Companies.CoreApi\Companies.CoreApi\bin\Debug\net10.0\Companies.CoreApi.pdb
+C:\Users\suche\Desktop\Web API AND DAPPER\project\CompanyApi With Email\Companies.CoreApi\Companies.CoreApi\bin\Debug\net10.0\Azure.Core.dll
+C:\Users\suche\Desktop\Web API AND DAPPER\project\CompanyApi With Email\Companies.CoreApi\Companies.CoreApi\bin\Debug\net10.0\Azure.Identity.dll
+C:\Users\suche\Desktop\Web API AND DAPPER\project\CompanyApi With Email\Companies.CoreApi\Companies.CoreApi\bin\Debug\net10.0\Dapper.dll
+C:\Users\suche\Desktop\Web API AND DAPPER\project\CompanyApi With Email\Companies.CoreApi\Companies.CoreApi\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\suche\Desktop\Web API AND DAPPER\project\CompanyApi With Email\Companies.CoreApi\Companies.CoreApi\bin\Debug\net10.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\suche\Desktop\Web API AND DAPPER\project\CompanyApi With Email\Companies.CoreApi\Companies.CoreApi\bin\Debug\net10.0\Microsoft.Data.SqlClient.dll
+C:\Users\suche\Desktop\Web API AND DAPPER\project\CompanyApi With Email\Companies.CoreApi\Companies.CoreApi\bin\Debug\net10.0\Microsoft.Identity.Client.dll
+C:\Users\suche\Desktop\Web API AND DAPPER\project\CompanyApi With Email\Companies.CoreApi\Companies.CoreApi\bin\Debug\net10.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\suche\Desktop\Web API AND DAPPER\project\CompanyApi With Email\Companies.CoreApi\Companies.CoreApi\bin\Debug\net10.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\suche\Desktop\Web API AND DAPPER\project\CompanyApi With Email\Companies.CoreApi\Companies.CoreApi\bin\Debug\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\suche\Desktop\Web API AND DAPPER\project\CompanyApi With Email\Companies.CoreApi\Companies.CoreApi\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\suche\Desktop\Web API AND DAPPER\project\CompanyApi With Email\Companies.CoreApi\Companies.CoreApi\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\suche\Desktop\Web API AND DAPPER\project\CompanyApi With Email\Companies.CoreApi\Companies.CoreApi\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\suche\Desktop\Web API AND DAPPER\project\CompanyApi With Email\Companies.CoreApi\Companies.CoreApi\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\suche\Desktop\Web API AND DAPPER\project\CompanyApi With Email\Companies.CoreApi\Companies.CoreApi\bin\Debug\net10.0\Microsoft.OpenApi.dll
+C:\Users\suche\Desktop\Web API AND DAPPER\project\CompanyApi With Email\Companies.CoreApi\Companies.CoreApi\bin\Debug\net10.0\Microsoft.SqlServer.Server.dll
+C:\Users\suche\Desktop\Web API AND DAPPER\project\CompanyApi With Email\Companies.CoreApi\Companies.CoreApi\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\suche\Desktop\Web API AND DAPPER\project\CompanyApi With Email\Companies.CoreApi\Companies.CoreApi\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\suche\Desktop\Web API AND DAPPER\project\CompanyApi With Email\Companies.CoreApi\Companies.CoreApi\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\suche\Desktop\Web API AND DAPPER\project\CompanyApi With Email\Companies.CoreApi\Companies.CoreApi\bin\Debug\net10.0\System.ClientModel.dll
+C:\Users\suche\Desktop\Web API AND DAPPER\project\CompanyApi With Email\Companies.CoreApi\Companies.CoreApi\bin\Debug\net10.0\System.Configuration.ConfigurationManager.dll
+C:\Users\suche\Desktop\Web API AND DAPPER\project\CompanyApi With Email\Companies.CoreApi\Companies.CoreApi\bin\Debug\net10.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\suche\Desktop\Web API AND DAPPER\project\CompanyApi With Email\Companies.CoreApi\Companies.CoreApi\bin\Debug\net10.0\System.Memory.Data.dll
+C:\Users\suche\Desktop\Web API AND DAPPER\project\CompanyApi With Email\Companies.CoreApi\Companies.CoreApi\bin\Debug\net10.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\suche\Desktop\Web API AND DAPPER\project\CompanyApi With Email\Companies.CoreApi\Companies.CoreApi\bin\Debug\net10.0\cs\Microsoft.Data.SqlClient.resources.dll
+C:\Users\suche\Desktop\Web API AND DAPPER\project\CompanyApi With Email\Companies.CoreApi\Companies.CoreApi\bin\Debug\net10.0\de\Microsoft.Data.SqlClient.resources.dll
+C:\Users\suche\Desktop\Web API AND DAPPER\project\CompanyApi With Email\Companies.CoreApi\Companies.CoreApi\bin\Debug\net10.0\es\Microsoft.Data.SqlClient.resources.dll
+C:\Users\suche\Desktop\Web API AND DAPPER\project\CompanyApi With Email\Companies.CoreApi\Companies.CoreApi\bin\Debug\net10.0\fr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\suche\Desktop\Web API AND DAPPER\project\CompanyApi With Email\Companies.CoreApi\Companies.CoreApi\bin\Debug\net10.0\it\Microsoft.Data.SqlClient.resources.dll
+C:\Users\suche\Desktop\Web API AND DAPPER\project\CompanyApi With Email\Companies.CoreApi\Companies.CoreApi\bin\Debug\net10.0\ja\Microsoft.Data.SqlClient.resources.dll
+C:\Users\suche\Desktop\Web API AND DAPPER\project\CompanyApi With Email\Companies.CoreApi\Companies.CoreApi\bin\Debug\net10.0\ko\Microsoft.Data.SqlClient.resources.dll
+C:\Users\suche\Desktop\Web API AND DAPPER\project\CompanyApi With Email\Companies.CoreApi\Companies.CoreApi\bin\Debug\net10.0\pl\Microsoft.Data.SqlClient.resources.dll
+C:\Users\suche\Desktop\Web API AND DAPPER\project\CompanyApi With Email\Companies.CoreApi\Companies.CoreApi\bin\Debug\net10.0\pt-BR\Microsoft.Data.SqlClient.resources.dll
+C:\Users\suche\Desktop\Web API AND DAPPER\project\CompanyApi With Email\Companies.CoreApi\Companies.CoreApi\bin\Debug\net10.0\ru\Microsoft.Data.SqlClient.resources.dll
+C:\Users\suche\Desktop\Web API AND DAPPER\project\CompanyApi With Email\Companies.CoreApi\Companies.CoreApi\bin\Debug\net10.0\tr\Microsoft.Data.SqlClient.resources.dll
+C:\Users\suche\Desktop\Web API AND DAPPER\project\CompanyApi With Email\Companies.CoreApi\Companies.CoreApi\bin\Debug\net10.0\zh-Hans\Microsoft.Data.SqlClient.resources.dll
+C:\Users\suche\Desktop\Web API AND DAPPER\project\CompanyApi With Email\Companies.CoreApi\Companies.CoreApi\bin\Debug\net10.0\zh-Hant\Microsoft.Data.SqlClient.resources.dll
+C:\Users\suche\Desktop\Web API AND DAPPER\project\CompanyApi With Email\Companies.CoreApi\Companies.CoreApi\bin\Debug\net10.0\runtimes\unix\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\suche\Desktop\Web API AND DAPPER\project\CompanyApi With Email\Companies.CoreApi\Companies.CoreApi\bin\Debug\net10.0\runtimes\win\lib\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\suche\Desktop\Web API AND DAPPER\project\CompanyApi With Email\Companies.CoreApi\Companies.CoreApi\bin\Debug\net10.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\suche\Desktop\Web API AND DAPPER\project\CompanyApi With Email\Companies.CoreApi\Companies.CoreApi\bin\Debug\net10.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\suche\Desktop\Web API AND DAPPER\project\CompanyApi With Email\Companies.CoreApi\Companies.CoreApi\bin\Debug\net10.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\suche\Desktop\Web API AND DAPPER\project\CompanyApi With Email\Companies.CoreApi\Companies.CoreApi\bin\Debug\net10.0\Companies.Core.Business.dll
+C:\Users\suche\Desktop\Web API AND DAPPER\project\CompanyApi With Email\Companies.CoreApi\Companies.CoreApi\bin\Debug\net10.0\Companies.Core.DataAccess.dll
+C:\Users\suche\Desktop\Web API AND DAPPER\project\CompanyApi With Email\Companies.CoreApi\Companies.CoreApi\bin\Debug\net10.0\Companies.Core.Business.pdb
+C:\Users\suche\Desktop\Web API AND DAPPER\project\CompanyApi With Email\Companies.CoreApi\Companies.CoreApi\bin\Debug\net10.0\Companies.Core.DataAccess.pdb
+C:\Users\suche\Desktop\Web API AND DAPPER\project\CompanyApi With Email\Companies.CoreApi\Companies.CoreApi\obj\Debug\net10.0\Companies.CoreApi.csproj.AssemblyReference.cache
+C:\Users\suche\Desktop\Web API AND DAPPER\project\CompanyApi With Email\Companies.CoreApi\Companies.CoreApi\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\suche\Desktop\Web API AND DAPPER\project\CompanyApi With Email\Companies.CoreApi\Companies.CoreApi\obj\Debug\net10.0\Companies.CoreApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suche\Desktop\Web API AND DAPPER\project\CompanyApi With Email\Companies.CoreApi\Companies.CoreApi\obj\Debug\net10.0\Companies.CoreApi.AssemblyInfoInputs.cache
+C:\Users\suche\Desktop\Web API AND DAPPER\project\CompanyApi With Email\Companies.CoreApi\Companies.CoreApi\obj\Debug\net10.0\Companies.CoreApi.AssemblyInfo.cs
+C:\Users\suche\Desktop\Web API AND DAPPER\project\CompanyApi With Email\Companies.CoreApi\Companies.CoreApi\obj\Debug\net10.0\Companies.CoreApi.csproj.CoreCompileInputs.cache
+C:\Users\suche\Desktop\Web API AND DAPPER\project\CompanyApi With Email\Companies.CoreApi\Companies.CoreApi\obj\Debug\net10.0\Companies.CoreApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\suche\Desktop\Web API AND DAPPER\project\CompanyApi With Email\Companies.CoreApi\Companies.CoreApi\obj\Debug\net10.0\Companies.CoreApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\suche\Desktop\Web API AND DAPPER\project\CompanyApi With Email\Companies.CoreApi\Companies.CoreApi\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\suche\Desktop\Web API AND DAPPER\project\CompanyApi With Email\Companies.CoreApi\Companies.CoreApi\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\suche\Desktop\Web API AND DAPPER\project\CompanyApi With Email\Companies.CoreApi\Companies.CoreApi\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\suche\Desktop\Web API AND DAPPER\project\CompanyApi With Email\Companies.CoreApi\Companies.CoreApi\obj\Debug\net10.0\scopedcss\bundle\Companies.CoreApi.styles.css
+C:\Users\suche\Desktop\Web API AND DAPPER\project\CompanyApi With Email\Companies.CoreApi\Companies.CoreApi\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\suche\Desktop\Web API AND DAPPER\project\CompanyApi With Email\Companies.CoreApi\Companies.CoreApi\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\suche\Desktop\Web API AND DAPPER\project\CompanyApi With Email\Companies.CoreApi\Companies.CoreApi\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\suche\Desktop\Web API AND DAPPER\project\CompanyApi With Email\Companies.CoreApi\Companies.CoreApi\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\suche\Desktop\Web API AND DAPPER\project\CompanyApi With Email\Companies.CoreApi\Companies.CoreApi\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\suche\Desktop\Web API AND DAPPER\project\CompanyApi With Email\Companies.CoreApi\Companies.CoreApi\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+C:\Users\suche\Desktop\Web API AND DAPPER\project\CompanyApi With Email\Companies.CoreApi\Companies.CoreApi\obj\Debug\net10.0\Companie.262D0F11.Up2Date
+C:\Users\suche\Desktop\Web API AND DAPPER\project\CompanyApi With Email\Companies.CoreApi\Companies.CoreApi\obj\Debug\net10.0\Companies.CoreApi.dll
+C:\Users\suche\Desktop\Web API AND DAPPER\project\CompanyApi With Email\Companies.CoreApi\Companies.CoreApi\obj\Debug\net10.0\refint\Companies.CoreApi.dll
+C:\Users\suche\Desktop\Web API AND DAPPER\project\CompanyApi With Email\Companies.CoreApi\Companies.CoreApi\obj\Debug\net10.0\Companies.CoreApi.pdb
+C:\Users\suche\Desktop\Web API AND DAPPER\project\CompanyApi With Email\Companies.CoreApi\Companies.CoreApi\obj\Debug\net10.0\Companies.CoreApi.genruntimeconfig.cache
+C:\Users\suche\Desktop\Web API AND DAPPER\project\CompanyApi With Email\Companies.CoreApi\Companies.CoreApi\obj\Debug\net10.0\ref\Companies.CoreApi.dll

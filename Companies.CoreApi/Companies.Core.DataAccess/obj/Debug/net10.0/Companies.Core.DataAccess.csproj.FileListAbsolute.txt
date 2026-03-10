@@ -1,0 +1,36 @@
+C:\Users\suche\Desktop\Web API AND DAPPER\project\Companies.CoreApi\Companies.Core.DataAccess\bin\Debug\net10.0\Companies.Core.DataAccess.deps.json
+C:\Users\suche\Desktop\Web API AND DAPPER\project\Companies.CoreApi\Companies.Core.DataAccess\bin\Debug\net10.0\Companies.Core.DataAccess.dll
+C:\Users\suche\Desktop\Web API AND DAPPER\project\Companies.CoreApi\Companies.Core.DataAccess\bin\Debug\net10.0\Companies.Core.DataAccess.pdb
+C:\Users\suche\Desktop\Web API AND DAPPER\project\Companies.CoreApi\Companies.Core.DataAccess\obj\Debug\net10.0\Companies.Core.DataAccess.csproj.AssemblyReference.cache
+C:\Users\suche\Desktop\Web API AND DAPPER\project\Companies.CoreApi\Companies.Core.DataAccess\obj\Debug\net10.0\Companies.Core.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suche\Desktop\Web API AND DAPPER\project\Companies.CoreApi\Companies.Core.DataAccess\obj\Debug\net10.0\Companies.Core.DataAccess.AssemblyInfoInputs.cache
+C:\Users\suche\Desktop\Web API AND DAPPER\project\Companies.CoreApi\Companies.Core.DataAccess\obj\Debug\net10.0\Companies.Core.DataAccess.AssemblyInfo.cs
+C:\Users\suche\Desktop\Web API AND DAPPER\project\Companies.CoreApi\Companies.Core.DataAccess\obj\Debug\net10.0\Companies.Core.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\suche\Desktop\Web API AND DAPPER\project\Companies.CoreApi\Companies.Core.DataAccess\obj\Debug\net10.0\Companies.Core.DataAccess.dll
+C:\Users\suche\Desktop\Web API AND DAPPER\project\Companies.CoreApi\Companies.Core.DataAccess\obj\Debug\net10.0\refint\Companies.Core.DataAccess.dll
+C:\Users\suche\Desktop\Web API AND DAPPER\project\Companies.CoreApi\Companies.Core.DataAccess\obj\Debug\net10.0\Companies.Core.DataAccess.pdb
+C:\Users\suche\Desktop\Web API AND DAPPER\project\Companies.CoreApi\Companies.Core.DataAccess\obj\Debug\net10.0\ref\Companies.Core.DataAccess.dll
+C:\Users\suche\Desktop\Web API AND DAPPER\project\3 tier with env var\Companies.CoreApi\Companies.Core.DataAccess\bin\Debug\net10.0\Companies.Core.DataAccess.deps.json
+C:\Users\suche\Desktop\Web API AND DAPPER\project\3 tier with env var\Companies.CoreApi\Companies.Core.DataAccess\bin\Debug\net10.0\Companies.Core.DataAccess.dll
+C:\Users\suche\Desktop\Web API AND DAPPER\project\3 tier with env var\Companies.CoreApi\Companies.Core.DataAccess\bin\Debug\net10.0\Companies.Core.DataAccess.pdb
+C:\Users\suche\Desktop\Web API AND DAPPER\project\3 tier with env var\Companies.CoreApi\Companies.Core.DataAccess\obj\Debug\net10.0\Companies.Core.DataAccess.csproj.AssemblyReference.cache
+C:\Users\suche\Desktop\Web API AND DAPPER\project\3 tier with env var\Companies.CoreApi\Companies.Core.DataAccess\obj\Debug\net10.0\Companies.Core.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suche\Desktop\Web API AND DAPPER\project\3 tier with env var\Companies.CoreApi\Companies.Core.DataAccess\obj\Debug\net10.0\Companies.Core.DataAccess.AssemblyInfoInputs.cache
+C:\Users\suche\Desktop\Web API AND DAPPER\project\3 tier with env var\Companies.CoreApi\Companies.Core.DataAccess\obj\Debug\net10.0\Companies.Core.DataAccess.AssemblyInfo.cs
+C:\Users\suche\Desktop\Web API AND DAPPER\project\3 tier with env var\Companies.CoreApi\Companies.Core.DataAccess\obj\Debug\net10.0\Companies.Core.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\suche\Desktop\Web API AND DAPPER\project\3 tier with env var\Companies.CoreApi\Companies.Core.DataAccess\obj\Debug\net10.0\Companies.Core.DataAccess.dll
+C:\Users\suche\Desktop\Web API AND DAPPER\project\3 tier with env var\Companies.CoreApi\Companies.Core.DataAccess\obj\Debug\net10.0\refint\Companies.Core.DataAccess.dll
+C:\Users\suche\Desktop\Web API AND DAPPER\project\3 tier with env var\Companies.CoreApi\Companies.Core.DataAccess\obj\Debug\net10.0\Companies.Core.DataAccess.pdb
+C:\Users\suche\Desktop\Web API AND DAPPER\project\3 tier with env var\Companies.CoreApi\Companies.Core.DataAccess\obj\Debug\net10.0\ref\Companies.Core.DataAccess.dll
+C:\Users\suche\Desktop\Web API AND DAPPER\project\CompanyApi With Email\Companies.CoreApi\Companies.Core.DataAccess\bin\Debug\net10.0\Companies.Core.DataAccess.deps.json
+C:\Users\suche\Desktop\Web API AND DAPPER\project\CompanyApi With Email\Companies.CoreApi\Companies.Core.DataAccess\bin\Debug\net10.0\Companies.Core.DataAccess.dll
+C:\Users\suche\Desktop\Web API AND DAPPER\project\CompanyApi With Email\Companies.CoreApi\Companies.Core.DataAccess\bin\Debug\net10.0\Companies.Core.DataAccess.pdb
+C:\Users\suche\Desktop\Web API AND DAPPER\project\CompanyApi With Email\Companies.CoreApi\Companies.Core.DataAccess\obj\Debug\net10.0\Companies.Core.DataAccess.csproj.AssemblyReference.cache
+C:\Users\suche\Desktop\Web API AND DAPPER\project\CompanyApi With Email\Companies.CoreApi\Companies.Core.DataAccess\obj\Debug\net10.0\Companies.Core.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\suche\Desktop\Web API AND DAPPER\project\CompanyApi With Email\Companies.CoreApi\Companies.Core.DataAccess\obj\Debug\net10.0\Companies.Core.DataAccess.AssemblyInfoInputs.cache
+C:\Users\suche\Desktop\Web API AND DAPPER\project\CompanyApi With Email\Companies.CoreApi\Companies.Core.DataAccess\obj\Debug\net10.0\Companies.Core.DataAccess.AssemblyInfo.cs
+C:\Users\suche\Desktop\Web API AND DAPPER\project\CompanyApi With Email\Companies.CoreApi\Companies.Core.DataAccess\obj\Debug\net10.0\Companies.Core.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\suche\Desktop\Web API AND DAPPER\project\CompanyApi With Email\Companies.CoreApi\Companies.Core.DataAccess\obj\Debug\net10.0\Companies.Core.DataAccess.dll
+C:\Users\suche\Desktop\Web API AND DAPPER\project\CompanyApi With Email\Companies.CoreApi\Companies.Core.DataAccess\obj\Debug\net10.0\refint\Companies.Core.DataAccess.dll
+C:\Users\suche\Desktop\Web API AND DAPPER\project\CompanyApi With Email\Companies.CoreApi\Companies.Core.DataAccess\obj\Debug\net10.0\Companies.Core.DataAccess.pdb
+C:\Users\suche\Desktop\Web API AND DAPPER\project\CompanyApi With Email\Companies.CoreApi\Companies.Core.DataAccess\obj\Debug\net10.0\ref\Companies.Core.DataAccess.dll
