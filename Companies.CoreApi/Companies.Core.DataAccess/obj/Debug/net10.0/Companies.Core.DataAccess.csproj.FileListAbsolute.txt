@@ -34,3 +34,4 @@ C:\Users\suche\Desktop\Web API AND DAPPER\project\CompanyApi With Email\Companie
 C:\Users\suche\Desktop\Web API AND DAPPER\project\CompanyApi With Email\Companies.CoreApi\Companies.Core.DataAccess\obj\Debug\net10.0\refint\Companies.Core.DataAccess.dll
 C:\Users\suche\Desktop\Web API AND DAPPER\project\CompanyApi With Email\Companies.CoreApi\Companies.Core.DataAccess\obj\Debug\net10.0\Companies.Core.DataAccess.pdb
 C:\Users\suche\Desktop\Web API AND DAPPER\project\CompanyApi With Email\Companies.CoreApi\Companies.Core.DataAccess\obj\Debug\net10.0\ref\Companies.Core.DataAccess.dll
+C:\Users\suche\Desktop\Web API AND DAPPER\project\CompanyApi With Email\Companies.CoreApi\Companies.Core.DataAccess\obj\Debug\net10.0\Companies.Core.DataAccess.sourcelink.json
