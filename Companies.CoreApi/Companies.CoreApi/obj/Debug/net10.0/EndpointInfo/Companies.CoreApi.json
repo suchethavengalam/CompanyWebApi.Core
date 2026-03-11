@@ -204,6 +204,18 @@
         }
       }
     },
+    "/api/Company/companies-with-departments": {
+      "get": {
+        "tags": [
+          "Company"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
     "/WeatherForecast": {
       "get": {
         "tags": [

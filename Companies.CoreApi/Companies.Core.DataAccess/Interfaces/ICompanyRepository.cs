@@ -12,5 +12,6 @@ namespace Companies.Core.DataAccess.Interfaces
         Task<int>Add(Company company);
         Task Update(Company company);
         Task Delete(int id);
+        Task<IEnumerable<Company>> GetAllCompaniesWithDepartments();
     }
 }

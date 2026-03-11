@@ -12,5 +12,6 @@ namespace Companies.Core.Business.Interfaces
         Task<int> CreateCompany(CompanyCreateDto dto);
         Task UpdateCompany(CompanyUpdateDto dto);
         Task DeleteCompany(int id);
+        Task<IEnumerable<CompanyWithDepartmentsDto>> GetAllCompaniesWithDepartments();
     }
 }

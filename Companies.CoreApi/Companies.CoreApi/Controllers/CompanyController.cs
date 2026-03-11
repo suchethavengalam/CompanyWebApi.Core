@@ -50,6 +50,12 @@ namespace Companies.CoreApi.Controllers
             await _service.DeleteCompany(id);
             return Ok();
         }
-        
+        [HttpGet("companies-with-departments")]
+        public async Task<IActionResult> GetCompaniesWithDepartments()
+        {
+            var result = await _service.GetAllCompaniesWithDepartments();
+            return Ok(result);
+        }
+
     }
 }

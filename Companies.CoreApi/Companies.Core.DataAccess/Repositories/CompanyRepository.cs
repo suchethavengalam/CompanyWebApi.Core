@@ -76,6 +76,26 @@ namespace Companies.Core.DataAccess.Repositories
                 new { Id = id },
                 commandType: CommandType.StoredProcedure);
         }
+        public async Task<IEnumerable<Company>> GetAllCompaniesWithDepartments()
+        {
+            using var db = Connection;
+
+            using var multi = await db.QueryMultipleAsync(
+                "sp_GetCompaniesWithDepartments",
+                commandType: CommandType.StoredProcedure);
+
+            var companies = await multi.ReadAsync<Company>();
+            var departments = await multi.ReadAsync<Department>();
+
+            foreach (var company in companies)
+            {
+                company.Departments = [.. departments.Where(d => d.CompanyId == company.Id)];
+            }
+
+            return companies;
+            //return (companies, departments);
+        }
+
     }
 }
 

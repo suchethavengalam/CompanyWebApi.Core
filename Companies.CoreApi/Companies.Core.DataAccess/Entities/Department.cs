@@ -4,13 +4,14 @@ using System.Text;
 
 namespace Companies.Core.DataAccess.Entities
 {
-    public class Company
+    public class Department
     {
         public int Id { get; set; }
-        public string Name { get; set; }
-        public string Address { get; set; }
-        public string Country { get; set; }
-        public List<Department> Departments { get; set; } = [];
 
+        public int CompanyId { get; set; }
+
+        public string Name { get; set; }
+
+        public string Description { get; set; }
     }
 }

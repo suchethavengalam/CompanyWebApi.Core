@@ -83,6 +83,24 @@ namespace Companies.Core.Business.Services
 
         public async Task DeleteCompany(int id)
             => await _repository.Delete(id);
+        public async Task<IEnumerable<CompanyWithDepartmentsDto>> GetAllCompaniesWithDepartments()
+        {
+            var companies = await _repository.GetAllCompaniesWithDepartments();
+
+            return companies.Select(c => new CompanyWithDepartmentsDto(
+                c.Id,
+                c.Name,
+                c.Address,
+                c.Country,
+                [.. c.Departments.Select(d =>
+                    new DepartmentDto(
+                        d.Id,
+                        d.CompanyId,
+                        d.Name,
+                        d.Description
+                    ))]
+            ));
+        }
     }
 }
 

@@ -232,3 +232,4 @@ C:\Users\suche\Desktop\Web API AND DAPPER\project\CompanyApi With Email\Companie
 C:\Users\suche\Desktop\Web API AND DAPPER\project\CompanyApi With Email\Companies.CoreApi\Companies.CoreApi\obj\Debug\net10.0\Companies.CoreApi.pdb
 C:\Users\suche\Desktop\Web API AND DAPPER\project\CompanyApi With Email\Companies.CoreApi\Companies.CoreApi\obj\Debug\net10.0\Companies.CoreApi.genruntimeconfig.cache
 C:\Users\suche\Desktop\Web API AND DAPPER\project\CompanyApi With Email\Companies.CoreApi\Companies.CoreApi\obj\Debug\net10.0\ref\Companies.CoreApi.dll
+C:\Users\suche\Desktop\Web API AND DAPPER\project\CompanyApi With Email\Companies.CoreApi\Companies.CoreApi\obj\Debug\net10.0\Companies.CoreApi.sourcelink.json

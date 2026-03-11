@@ -124,6 +124,16 @@
     ]
   },
   {
+    "ContainingType": "Companies.CoreApi.Controllers.CompanyController",
+    "Method": "GetCompaniesWithDepartments",
+    "RelativePath": "api/Company/companies-with-departments",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "Companies.CoreApi.Controllers.WeatherForecastController",
     "Method": "Get",
     "RelativePath": "WeatherForecast",
