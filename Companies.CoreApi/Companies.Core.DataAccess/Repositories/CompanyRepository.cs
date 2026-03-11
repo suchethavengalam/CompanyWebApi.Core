@@ -76,7 +76,30 @@ namespace Companies.Core.DataAccess.Repositories
                 new { Id = id },
                 commandType: CommandType.StoredProcedure);
         }
+<<<<<<< HEAD
         public async Task<IEnumerable<Company>> GetAllCompaniesWithDepartments()
+=======
+        //public async Task<IEnumerable<Company>> GetAllCompaniesWithDepartments()
+        //{
+        //    using var db = Connection;
+
+        //    using var multi = await db.QueryMultipleAsync(
+        //        "sp_GetCompaniesWithDepartments",
+        //        commandType: CommandType.StoredProcedure);
+
+        //    var companies = await multi.ReadAsync<Company>();
+        //    var departments = await multi.ReadAsync<Department>();
+
+        //    //foreach (var company in companies)
+        //    //{
+        //    //    company.Departments = [.. departments.Where(d => d.CompanyId == company.Id)];
+        //    //}
+
+        //    //return companies;
+        //    return (companies, departments);
+        //}
+        public async Task<(IEnumerable<Company> Companies, IEnumerable<Department> Departments)> GetAllCompaniesWithDepartments()
+>>>>>>> d09591b50c19d9f00b7859271a7b0d81e71f0876
         {
             using var db = Connection;
 
@@ -87,6 +110,7 @@ namespace Companies.Core.DataAccess.Repositories
             var companies = await multi.ReadAsync<Company>();
             var departments = await multi.ReadAsync<Department>();
 
+<<<<<<< HEAD
             foreach (var company in companies)
             {
                 company.Departments = [.. departments.Where(d => d.CompanyId == company.Id)];
@@ -96,6 +120,11 @@ namespace Companies.Core.DataAccess.Repositories
             //return (companies, departments);
         }
 
+=======
+            // ❌ No grouping here
+            return (companies, departments);
+        }
+>>>>>>> d09591b50c19d9f00b7859271a7b0d81e71f0876
     }
 }
 

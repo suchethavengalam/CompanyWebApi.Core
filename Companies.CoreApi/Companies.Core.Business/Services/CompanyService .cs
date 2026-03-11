@@ -9,7 +9,7 @@ using System.Text;
 
 namespace Companies.Core.Business.Services
 {
-    public class CompanyService(ICompanyRepository _repository,IEmailService emailService,
+    public class CompanyService(ICompanyRepository _repository, IEmailService emailService,
     ILogger<CompanyService> logger) : ICompanyService
     {
         public async Task<IEnumerable<CompanyReadDto>> GetCompanies()
@@ -37,8 +37,8 @@ namespace Companies.Core.Business.Services
             };
         }
 
-       
-       
+
+
         public async Task<int> CreateCompany(CompanyCreateDto dto)
         {
             if (logger.IsEnabled(LogLevel.Information))
@@ -83,6 +83,7 @@ namespace Companies.Core.Business.Services
 
         public async Task DeleteCompany(int id)
             => await _repository.Delete(id);
+<<<<<<< HEAD
         public async Task<IEnumerable<CompanyWithDepartmentsDto>> GetAllCompaniesWithDepartments()
         {
             var companies = await _repository.GetAllCompaniesWithDepartments();
@@ -100,6 +101,73 @@ namespace Companies.Core.Business.Services
                         d.Description
                     ))]
             ));
+=======
+
+        //public async Task<IEnumerable<CompanyWithDepartmentsDto>> GetAllCompaniesWithDepartments()
+        //{
+        //    var companies = await _repository.GetAllCompaniesWithDepartments();
+
+        //    return companies.Select(c => new CompanyWithDepartmentsDto(
+        //        c.Id,
+        //        c.Name,
+        //        c.Address,
+        //        c.Country,
+        //        [.. c.Departments.Select(d =>
+        //            new DepartmentDto(
+        //                d.Id,
+        //                d.CompanyId,
+        //                d.Name,
+        //                d.Description
+        //            ))]
+        //    ));
+        //}
+        //public async Task<IEnumerable<CompanyWithDepartmentsDto>> GetAllCompaniesWithDepartments()
+        //{
+        //    var (companies, departments) = await _repository.GetAllCompaniesWithDepartments();
+
+        //    var departmentLookup = departments
+        //        .GroupBy(d => d.CompanyId)
+        //        .ToDictionary(g => g.Key, g => g.ToList());
+
+        //    return companies.Select(c =>
+        //    {
+        //        departmentLookup.TryGetValue(c.Id, out var deptList);
+
+        //        return new CompanyWithDepartmentsDto(
+        //            c.Id,
+        //            c.Name,
+        //            c.Address,
+        //            c.Country,
+        //            deptList?.Select(d => new DepartmentDto(d.Id, d.CompanyId, d.Name, d.Description)).ToList()
+        //            ?? new List<DepartmentDto>()
+        //        );
+        //    });
+        //}
+        public async Task<IEnumerable<CompanyWithDepartmentsDto>> GetAllCompaniesWithDepartments()
+        {
+            var (companies, departments) = await _repository.GetAllCompaniesWithDepartments();
+
+            // Use a lookup dictionary for better performance (O(n) instead of O(n²))
+            var departmentLookup = departments
+                .GroupBy(d => d.CompanyId)
+                .ToDictionary(g => g.Key, g => g.ToList());
+
+            var companyDtos = companies.Select(c =>
+            {
+                departmentLookup.TryGetValue(c.Id, out var deptList);
+
+                return new CompanyWithDepartmentsDto(
+                    c.Id,
+                    c.Name,
+                    c.Address,
+                    c.Country,
+                    deptList?.Select(d => new DepartmentDto(d.Id, d.CompanyId, d.Name, d.Description)).ToList()
+                    ?? []
+                );
+            });
+
+            return companyDtos;
+>>>>>>> d09591b50c19d9f00b7859271a7b0d81e71f0876
         }
     }
 }

@@ -290,6 +290,13 @@
           "country": {
             "type": "string",
             "nullable": true
+          },
+          "departments": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/DepartmentDto"
+            },
+            "nullable": true
           }
         },
         "additionalProperties": false
@@ -310,6 +317,28 @@
             "nullable": true
           },
           "country": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "DepartmentDto": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "companyId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "name": {
+            "type": "string",
+            "nullable": true
+          },
+          "description": {
             "type": "string",
             "nullable": true
           }
